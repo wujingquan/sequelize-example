@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujingquan/sequelize-example.git"
+  },
+  "keywords": [
+    "sequelize",
+    "MySQL"
+  ],
+  "author": "wujingquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujingquan/sequelize-example/issues"
+  },
+  "homepage": "https://github.com/wujingquan/sequelize-example#readme",
+  "dependencies": {
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
